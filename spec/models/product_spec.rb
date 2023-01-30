@@ -7,7 +7,6 @@ RSpec.describe Product, type: :model do
 
     it "is valid with valid attributes" do
       expect(product).to be_valid
-      # IS IT PRODUCT OR CATEGORY THAT NEEDS TO BE VALID?
     end
 
     it "is not valid without a name" do
