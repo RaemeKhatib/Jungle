@@ -29,3 +29,13 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Images
+
+!["Home Page"](https://github.com/RaemeKhatib/Jungle/blob/master/public/images/Home.png?raw=true)
+
+!["Products"](https://github.com/RaemeKhatib/Jungle/blob/master/public/images/Products.png?raw=true)
+
+!["Registration"](https://github.com/RaemeKhatib/Jungle/blob/master/public/images/Registration.png?raw=true)
+
+!["Admin View- All Products"](https://github.com/RaemeKhatib/Jungle/blob/master/public/images/Admin-Products.png?raw=true)
